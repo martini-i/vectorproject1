@@ -1,3 +1,6 @@
+// Martin Nguyen
+// CPSC 131-18
+
 #include<iostream>
 #include<string>
 #include<vector>
