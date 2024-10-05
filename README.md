@@ -29,7 +29,7 @@ Name                Expiration     Quantity       Category
 Protien Bar         05/09/2023     4              Snacks         
 Milk                09/24/2023     3              Regular        
 Cerels              09/27/2023     4              Regular        
-Total items in inventory: 11
+Total Number of items in inventory = 3
 Item not found
 -------Inventory-------
 Name                Expiration     Quantity       Category  

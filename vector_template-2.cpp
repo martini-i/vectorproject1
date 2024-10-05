@@ -63,12 +63,8 @@ template<typename T> class Inventory{
             throw "Item not found";
         }
 
-        void Total(){
-            int total = 0;
-            for (int i=0; i<items.size();i++){
-                total += items[i].quantity;
-            }
-            std::cout << "Total items in inventory: " << total << std::endl;
+        void Total(){ // just how many items not the quantity of each
+            std::cout << "Total Number of items in inventory = " << items.size() << std::endl;
         }
 
         void searchItem(T itemname){
